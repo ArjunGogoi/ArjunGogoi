@@ -28,8 +28,7 @@
 ---
 
 ## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/arjun-gogoi-05a82211a)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram)](https://www.instagram.com/homeat_india/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/arjun-gogoi-05a82211a)    
 📩 **Email:** arjungogoi1999@gmail.com  
 
 ---
